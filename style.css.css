@@ -1,0 +1,26 @@
+body
+{
+	background-color: crimson;
+}
+
+    div
+    {
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        width: 1000px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	width: 80%;
+}
+input
+{
+    width: 800px;
+    height: 20px;
+}
